@@ -1,6 +1,5 @@
 # Vibrionaceae
-[Vibrio chromosomes share common history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875227/)
-Про то, что деревья по обеим хромосомам гомологичны
+[Vibrio chromosomes share common history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875227/) Про то, что деревья по обеим хромосомам гомологичны
 
 # Vibrio
 [Comparison of Genome Structures of Vibrios, Bacteria Possessing Two Chromosomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC135242/)
