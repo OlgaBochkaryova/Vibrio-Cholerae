@@ -1,22 +1,6 @@
 GCA_000016245.1_ASM1624v1_genomic.fna O395 - хромосомы перепутаны  
 
-[Google Drive](https://drive.google.com/drive/folders/0BxJNzjxZ7mJpWEdTR3VlZmlVcFk)  
-
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.
-
-
+[Google Drive](https://drive.google.com/drive/folders/0BxJNzjxZ7mJpb2xLUGYzR2ZUbHM)  
 
 # To do
 
