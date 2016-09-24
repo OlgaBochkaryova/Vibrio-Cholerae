@@ -5,19 +5,19 @@
 Есть несколько типов:  
 
 1. GC-skew нормальной хромосомы (1-ая, большая)  
-![](GCskew/TSY216-1.jpg)
+![](https://cloud.githubusercontent.com/assets/12018612/18810616/105faf88-82ac-11e6-9a46-ace57932bdc5.jpg)
 
 2. Очень часто 2-ая хромосома выглядит так, со странным изломом:  
-![](GCskew/TSY216-2.jpg)
+![](https://cloud.githubusercontent.com/assets/12018612/18810622/239c0948-82ac-11e6-88b8-20133cf9edde.jpg)
 
 3. 3-я хромосома, по сути, большая плазмида:  
-![](GCskew/TSY216-3.jpg)
+![](https://cloud.githubusercontent.com/assets/12018612/18810623/23b06622-82ac-11e6-9cb1-5360e3ac9dac.jpg)
 
 4. Собственно, плазмида:  
-![](GCskew/2012EL-2176-plasmid.jpg)
+![](https://cloud.githubusercontent.com/assets/12018612/18810620/2398088e-82ac-11e6-996d-8a77da9e256d.jpg)
 
 5. Интересные однохросомные:  
-![](GCskew/1154-74.jpg)
+![](https://cloud.githubusercontent.com/assets/12018612/18810621/239811b2-82ac-11e6-8a3e-7d91e458a933.jpg)
 
 ##Блоки:
 Вообще все блоки:
